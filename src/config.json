@@ -1,0 +1,15 @@
+{
+  "api": {
+    "invokeUrl": "xxxxxxxxxxxx"
+  },
+  "cognito": {
+    "REGION": "xxxxxxxxxxxx",
+    "USER_POOL_ID": "xxxxxxxxxxxx",
+    "APP_CLIENT_ID": "xxxxxxxxxxxx",
+    "IDENTITY_POOL_ID": "xxxxxxxxxxxx"
+  },
+  "s3": {
+    "bucket": "xxxxxxxxxxxx",
+    "thumbBucket": "xxxxxxxxxxxx"
+  }
+}
